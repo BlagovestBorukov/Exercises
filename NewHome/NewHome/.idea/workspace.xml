@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bb9a56d-9b20-470c-9071-cd94e11bcbb0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Projection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/NewProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/out/production/NewProject/NewProject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/NewProject/src/NewProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/Projection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projection/out/production/Projection/NewProject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/SummerFit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/out/production/SummerFit/SummerFit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SummerFit/SummerFit/src/SummerFit.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="286eMu7msXmziRSIfhRnKT6sEuu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="NewHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewHome" />
+      <module name="NewHome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewHome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb9a56d-9b20-470c-9071-cd94e11bcbb0" name="Changes" comment="" />
+      <created>1650541421242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650541421242</updated>
+    </task>
+    <servers />
+  </component>
+</project>
