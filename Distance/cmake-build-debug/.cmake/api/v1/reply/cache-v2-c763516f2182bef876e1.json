@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Coding/Distance/cmake-build-debug"
+			"value" : "c:/Users/User/Desktop/Projects/Exercises/Distance/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Coding/Distance"
+			"value" : "C:/Users/User/Desktop/Projects/Exercises/Distance"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Coding/Distance/cmake-build-debug"
+			"value" : "C:/Users/User/Desktop/Projects/Exercises/Distance/cmake-build-debug"
 		},
 		{
 			"name" : "Distance_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Coding/Distance"
+			"value" : "C:/Users/User/Desktop/Projects/Exercises/Distance"
 		}
 	],
 	"kind" : "cache",

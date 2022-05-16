@@ -1,21 +1,3 @@
 # ninja log v5
-1	117	6742325733549430	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-119	281	6742325735142422	Distance.exe	90766ad75edc2b2b
-2	158	6742328072873094	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-158	380	6742328075054046	Distance.exe	90766ad75edc2b2b
-3	401	6743152732366656	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-401	1225	6743152740569263	Distance.exe	90766ad75edc2b2b
-2	111	6743152928834774	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-111	272	6743152930407236	Distance.exe	90766ad75edc2b2b
-2	112	6743153014181257	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-112	273	6743153015760190	Distance.exe	90766ad75edc2b2b
-3	113	6743154584247426	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-113	283	6743154585907785	Distance.exe	90766ad75edc2b2b
-3	111	6743154709006403	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-111	269	6743154710561892	Distance.exe	90766ad75edc2b2b
-2	118	6743155041148403	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-118	279	6743155042709754	Distance.exe	90766ad75edc2b2b
-2	128	6743183197145244	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
-128	290	6743183198725483	Distance.exe	90766ad75edc2b2b
 2	112	6743183561810040	CMakeFiles/Distance.dir/main.c.obj	24bbb8ca4b0c076
 113	271	6743183563360371	Distance.exe	90766ad75edc2b2b
