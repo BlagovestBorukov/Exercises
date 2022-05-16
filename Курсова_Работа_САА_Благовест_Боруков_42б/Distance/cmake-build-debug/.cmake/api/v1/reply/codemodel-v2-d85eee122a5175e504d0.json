@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Distance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Distance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Distance-Debug-1de1fec3b7e6e19bf5f0.json",
+					"name" : "Distance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/Projects/Exercises/\u041a\u0443\u0440\u0441\u043e\u0432\u0430_\u0420\u0430\u0431\u043e\u0442\u0430_\u0421\u0410\u0410_\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0441\u0442_\u0411\u043e\u0440\u0443\u043a\u043e\u0432_42\u0431/Distance/cmake-build-debug",
+		"source" : "C:/Users/User/Desktop/Projects/Exercises/\u041a\u0443\u0440\u0441\u043e\u0432\u0430_\u0420\u0430\u0431\u043e\u0442\u0430_\u0421\u0410\u0410_\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0441\u0442_\u0411\u043e\u0440\u0443\u043a\u043e\u0432_42\u0431/Distance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

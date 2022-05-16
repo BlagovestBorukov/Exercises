@@ -1,0 +1,3 @@
+"D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Distance.dir/objects.a
+"D:\CLion 2022.1.1\bin\mingw\bin\ar.exe" qc CMakeFiles\Distance.dir/objects.a @CMakeFiles\Distance.dir\objects1.rsp
+"D:\CLion 2022.1.1\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\Distance.dir/objects.a -Wl,--no-whole-archive -o Distance.exe -Wl,--out-implib,libDistance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Distance.dir\linklibs.rsp

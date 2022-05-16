@@ -1,3 +1,0 @@
-C:/Users/User/Desktop/Projects/Exercises/Distance/cmake-build-debug/CMakeFiles/Distance.dir
-C:/Users/User/Desktop/Projects/Exercises/Distance/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Desktop/Projects/Exercises/Distance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

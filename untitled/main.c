@@ -1,4 +1,26 @@
 #include <stdio.h>
+void quicksort(float A[], int start, int stop)
+{
+    int m, j, i;
+    m=A[(start+stop)/2];
+    do
+    {
+
+        while (A[i]<m) i++;
+
+        while (A[j]>m) j--;
+
+        if(i<=j)
+        {
+            i++; j--;
+        }
+    }while (i<=j);
+
+    if (start < j)
+        quicksort(A, start, j);
+    if (i < stop)
+        quicksort(A, i, stop);
+}
 
 int main()
 {
