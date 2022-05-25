@@ -36,7 +36,7 @@ public class Ex_7 {
                 e = e / sum * 100;
             }
         }
-        System.out.printf("%f.2%%\n", mu);
+        System.out.printf("%.2f%%\n", mu);
         System.out.printf("%f.2%%\n", mo);
         System.out.printf("%f.2%%\n", k);
         System.out.printf("%f.2%%\n", k2);
