@@ -14,8 +14,11 @@ public class Ex_6 {
         System.out.print("Jury: ");
         n = scanner.nextInt();
 
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
+            scanner.nextLine();
+            System.out.println("Name of jury");
             jury = scanner.nextLine();
+            System.out.println("Points of jury");
             jpoints = scanner.nextDouble();
 
             points = points + ((jury.length() * jpoints) / 2);
@@ -26,10 +29,10 @@ public class Ex_6 {
         }
 
         if (points > 1250.5) {
-            System.out.println("Congratulations, %s got a nominee for leading role with %f.2!" + name + points);
+            System.out.printf("Congratulations, %s got a nominee for leading role with %f.1!\n",name ,points);
         }else if (points <= 1250.5) {
             sum = 1250.5 - points;
-            System.out.println("Sorry, %s you need %f" + name + sum);
+            System.out.printf("Sorry, %s you need %f.1" ,name ,sum);
         }
     }
 }
